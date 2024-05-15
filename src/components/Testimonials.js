@@ -30,12 +30,12 @@ export default function Testimonials() {
                       {testimonial.company}
                     </span>
                   </span>
+                </div>
               </div>
             </div>
-          </div>
           ))}
         </div>
       </div>
     </section>
-  )
+  );
 }
