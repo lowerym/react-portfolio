@@ -1,4 +1,4 @@
-export const portfolio = [
+export const projects = [
   {
     title: "React Reserve",
     subtitle: "MERN Stack",
@@ -33,7 +33,7 @@ export const portfolio = [
   },
 ];
 
-export const resume = [
+export const jobs = [
   "JavaScript",
   "React",
   "Next.js",
