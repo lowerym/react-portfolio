@@ -2,7 +2,7 @@ import { BadgeCheckIcon, ChipIcon } from "@heroicons/react/solid";
 import React from "react";
 import { jobs } from "../data";
 
-export default function Resume() {
+export default function Jobs() {
   return(
     <section id="resume">
       <div className="container px-5 py-10 mx-auto">
