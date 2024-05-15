@@ -10,7 +10,9 @@ export default function About() {
             <br className="hidden lg:inline-block" />I like creating some amazing apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-          I'm a professional web developer with a decade's worth of experience. Here, you can check out some of my past work and see just what I'm capabale of. Hope you enjoy it!
+          I'm a professional web developer with a decade's worth of experience.
+            Here, you can check out some of my past work and see just what
+            I'm capabale of. Hope you enjoy it!
           </p>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
