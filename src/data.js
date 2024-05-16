@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "PWA Text Editor",
+    subtitle: "Progressive Web Application",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "For this challenge, my task was to create a single page text editor that followed Progressive Web Application (PWA) criteria and worked offline.",
+    image: "./assets/project-1.png",
+    link: "https://text-editor-dqj0.onrender.com/",
   },
   {
     title: "React Tracks",
