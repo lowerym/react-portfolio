@@ -16,12 +16,12 @@ export const projects = [
     link: "https://drive.google.com/file/d/1K5G5oStv6vsG0EjTCKoeCz3oBl3mq9zl/view?usp=sharing",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "E-Commerce Back-End",
+    subtitle: "CLI and ORM",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://jsbootcamp.com",
+      "For this project, I had to build out the back end of an e-commerce platform utlizing command-line interface and object-relational mapping.",
+    image: "./assets/project-3.png",
+    link: "https://drive.google.com/file/d/1licOZllqTeRiC9FC-oE6GPwm7whmZBo-/view?usp=drive_link",
   },
   {
     title: "Epic Todo App",
