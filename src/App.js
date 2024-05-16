@@ -4,6 +4,7 @@ import Contact from "./components/Contact";
 import Navbar from "./components/NavBar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
