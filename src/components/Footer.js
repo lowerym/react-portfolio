@@ -5,9 +5,9 @@ export default function Footer() {
   let year = date.getFullYear();
   return (
     <footer
-      class="bg-zinc-50 text-center text-surface/75 dark:bg-neutral-700 dark:text-white/75 lg:text-left">
+      class="bg-zinc-50 text-center text-surface/75 bg-neutral-700 text-white/75 lg:text-left">
       <div
-        class="flex items-center justify-center border-b-2 border-neutral-200 p-6 dark:border-white/10 lg:justify-between">
+        class="flex items-center justify-center border-b-2 border-neutral-200 p-6 border-white/10 lg:justify-between">
         <div class="me-12 hidden lg:block">
           <span>© {year} Matthew Lowery</span>
         </div>
