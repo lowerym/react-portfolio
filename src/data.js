@@ -24,12 +24,12 @@ export const projects = [
     link: "https://drive.google.com/file/d/1licOZllqTeRiC9FC-oE6GPwm7whmZBo-/view?usp=drive_link",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Employee Tracker",
+    subtitle: "Inquirer and MySQL2",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://pythonbootcamp.com",
+      "This is a command-line application that manages a company's database that utilizes Inquirer, MySQL2, and Console Table.",
+    image: "./assets/project-4.png",
+    link: "https://drive.google.com/file/d/15FVpAGdEdy41EiFNE1gkL95qUCSNfV4q/view",
   },
 ];
 
