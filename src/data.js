@@ -11,7 +11,7 @@ export const projects = [
     title: "Social Network API",
     subtitle: "Express and Mongoose",
     description:
-      "The following is an API for a social network web application where users can share thoughts, create reactions to said thoughts, add friends, and create a friends list.",
+      "An API for a social network web application where users can share thoughts, create reactions, add friends, and create a friends list.",
     image: "./assets/project-2.png",
     link: "https://drive.google.com/file/d/1K5G5oStv6vsG0EjTCKoeCz3oBl3mq9zl/view?usp=sharing",
   },
