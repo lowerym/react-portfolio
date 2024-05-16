@@ -8,12 +8,12 @@ export const projects = [
     link: "https://text-editor-dqj0.onrender.com/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Social Network API",
+    subtitle: "Express and Mongoose",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reedbarger.com",
+      "The following is an API for a social network web application where users can share thoughts, create reactions to said thoughts, add friends, and create a friends list.",
+    image: "./assets/project-2.png",
+    link: "https://drive.google.com/file/d/1K5G5oStv6vsG0EjTCKoeCz3oBl3mq9zl/view?usp=sharing",
   },
   {
     title: "DevChat",
