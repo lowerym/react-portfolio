@@ -8,7 +8,10 @@
     }
     li {
         @apply px-4;
-        @apply cursor-pointer
+        @apply cursor-pointer;
+    }
+    li:hover {
+        @apply text-white;
     }
 }
 .content-div {

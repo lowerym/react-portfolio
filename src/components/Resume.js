@@ -2,7 +2,7 @@ import React from "react";
 
 function Resume() {
   return (
-    <div name='resume' className='w-full h-screen bg-[#0a192f] text-gray-300'>
+    <div name="resume" id="resume" className='w-full h-screen bg-[#0a192f] text-gray-300'>
       {/* Container */}
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           <div className=' w-full flex justify-center items-center flex-col mb-7'>
