@@ -5,13 +5,13 @@ export default function Footer() {
   let year = date.getFullYear();
   return (
 <footer
-  class="flex flex-col items-center bg-zinc-50 text-center text-surface dark:bg-neutral-700 dark:text-white">
+  class="flex flex-col items-center bg-zinc-50 text-center text-surface">
   <div class="container pt-9">
     <div class="mb-6 flex justify-center space-x-2">
       <a
         href="#!"
         type="button"
-        class="rounded-full bg-transparent p-3 font-medium uppercase leading-normal text-surface transition duration-150 ease-in-out hover:bg-neutral-100 focus:outline-none focus:ring-0 dark:text-white dark:hover:bg-secondary-900"
+        class="rounded-full bg-transparent p-3 font-medium uppercase leading-normal text-surface transition duration-150 ease-in-out hover:bg-neutral-100 focus:outline-none focus:ring-0"
         data-twe-ripple-init>
         <span class="[&>svg]:h-5 [&>svg]:w-5">
           <svg
@@ -27,7 +27,7 @@ export default function Footer() {
       <a
         href="#!"
         type="button"
-        class="rounded-full bg-transparent p-3 font-medium uppercase leading-normal text-surface transition duration-150 ease-in-out hover:bg-neutral-100 focus:outline-none focus:ring-0 dark:text-white dark:hover:bg-secondary-900"
+        class="rounded-full bg-transparent p-3 font-medium uppercase leading-normal text-surface transition duration-150 ease-in-out hover:bg-neutral-100 focus:outline-none focus:ring-0"
         data-twe-ripple-init>
         <span class="mx-auto [&>svg]:h-5 [&>svg]:w-5">
           <svg
@@ -43,7 +43,7 @@ export default function Footer() {
       <a
         href="#!"
         type="button"
-        class="rounded-full bg-transparent p-3 font-medium uppercase leading-normal text-surface transition duration-150 ease-in-out hover:bg-neutral-100 focus:outline-none focus:ring-0 dark:text-white dark:hover:bg-secondary-900"
+        class="rounded-full bg-transparent p-3 font-medium uppercase leading-normal text-surface transition duration-150 ease-in-out hover:bg-neutral-100 focus:outline-none focus:ring-0"
         data-twe-ripple-init>
         <span class="mx-auto [&>svg]:h-5 [&>svg]:w-5">
           <svg
@@ -59,7 +59,7 @@ export default function Footer() {
       <a
         href="#!"
         type="button"
-        class="rounded-full bg-transparent p-3 font-medium uppercase leading-normal text-surface transition duration-150 ease-in-out hover:bg-neutral-100 focus:outline-none focus:ring-0 dark:text-white dark:hover:bg-secondary-900"
+        class="rounded-full bg-transparent p-3 font-medium uppercase leading-normal text-surface transition duration-150 ease-in-out hover:bg-neutral-100 focus:outline-none focus:ring-0"
         data-twe-ripple-init>
         <span class="mx-auto [&>svg]:h-5 [&>svg]:w-5">
           <svg
@@ -75,7 +75,7 @@ export default function Footer() {
       <a
         href="#!"
         type="button"
-        class="rounded-full bg-transparent p-3 font-medium uppercase leading-normal text-surface transition duration-150 ease-in-out hover:bg-neutral-100 focus:outline-none focus:ring-0 dark:text-white dark:hover:bg-secondary-900"
+        class="rounded-full bg-transparent p-3 font-medium uppercase leading-normal text-surface transition duration-150 ease-in-out hover:bg-neutral-100 focus:outline-none focus:ring-0"
         data-twe-ripple-init>
         <span class="mx-auto [&>svg]:h-5 [&>svg]:w-5">
           <svg
@@ -91,7 +91,7 @@ export default function Footer() {
       <a
         href="#!"
         type="button"
-        class="rounded-full bg-transparent p-3 font-medium uppercase leading-normal text-surface transition duration-150 ease-in-out hover:bg-neutral-100 focus:outline-none focus:ring-0 dark:text-white dark:hover:bg-secondary-900"
+        class="rounded-full bg-transparent p-3 font-medium uppercase leading-normal text-surface transition duration-150 ease-in-out hover:bg-neutral-100 focus:outline-none focus:ring-0"
         data-twe-ripple-init>
         <span class="mx-auto [&>svg]:h-5 [&>svg]:w-5">
           <svg
