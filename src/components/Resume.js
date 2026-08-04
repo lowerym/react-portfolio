@@ -7,7 +7,7 @@ function Resume() {
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           <div className=' w-full flex justify-center items-center flex-col mb-7'>
               <p className='text-4xl font-bold inline border-b-4 border-cyan-500 text-center '>Resume</p>
-              <a href="./assets/Resume_05-16-24.pdf">
+              <a href="./assets/Resume_07-16-26.pdf">
                 <p className='py-4 text-2xl'>Download My Resume</p>
               </a>
           </div>
